@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ejercicio1</string>
+    <string name="boton_texto1">Botón Vertical 1</string>
+    <string name="boton_texto2">Botón vertical 2</string>
+    <string name="boton_texto3">Botón Vertical 3</string>
+</resources>
